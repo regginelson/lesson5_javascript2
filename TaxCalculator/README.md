@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 29, 2018  
 
 ### Student Name:  
-(First and Last Name)
+Reggi Nelson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We will create a Tax Calculator that will calculate the IRS tax bracket for the user.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://regginelson.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. getElementsByTagName() method looks up all the elements of a certain type and reference one in that collection.
+2. if/else statements execute one action if the condition is true. But if the condition is false, then there is another action/command for that condition.
+3. Switch statements controls program flow by executing a specific set of statement. This also a way to keep your program organized.
 
